@@ -1,0 +1,7 @@
+Production_Cell,Work_Orders,Avg_Risk,Avg_Delay_Hours,Avg_Readiness_Impact,Avg_Recovery_Hours,Avg_Recovery_Confidence,High_Risk_Count,Critical_Work_Orders,Escalations
+Avionics Assembly,33,58.03,43.3,41.41,30.88,0.64,12,3,5
+Systems Integration,51,52.29,43.24,31.42,31.47,0.61,11,2,8
+Final Assembly,29,48.75,39.79,29.72,29.66,0.57,7,0,1
+Inspection,38,42.99,35.29,28.64,25.08,0.63,3,1,2
+Surface Treatment,58,44.09,35.83,25.72,26.28,0.61,5,0,8
+Machining,41,42.76,34.9,22.72,25.27,0.62,4,0,7

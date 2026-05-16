@@ -1,0 +1,178 @@
+AUTONOMOUS MANUFACTURING RECOVERY SYSTEM
+EXECUTIVE OPERATIONS RECOVERY REPORT
+==============================================================================
+
+EXECUTIVE SUMMARY
+------------------------------------------------------------------------------
+Total work orders assessed: 250
+High-risk work orders detected: 42
+Critical recovery actions identified: 6
+Average operational risk score: 47.8/100
+Average estimated delay: 38.6 hours
+Average estimated recovery timeline: 28.0 hours
+Average recovery confidence: 0.61
+Highest-impact production cell: Avionics Assembly
+
+CURRENT OPERATIONAL CONDITIONS
+------------------------------------------------------------------------------
+Machine downtime events detected: 25
+Inspection holds / scrap risks detected: 28
+Elevated contract delivery risks: 11
+Supply chain constraint events: 71
+
+TOP RECOVERY PRIORITIES
+------------------------------------------------------------------------------
+
+Work Order ID: WO-10093
+Program: Ground Sensor Platform
+Platform: Ground Vehicle
+Production Cell: Systems Integration
+Component: Thermal Shield
+Primary Disruption: Machine Downtime
+Recovery Priority: Critical
+Operational Risk: 84.6
+Readiness Impact: 84.6
+Estimated Delay: 92 hours
+Estimated Recovery Time: 57 hours
+Recovery Confidence: 0.85
+Recommended Recovery Action: Reroute work order to alternate production path and prioritize maintenance recovery.
+
+Work Order ID: WO-10168
+Program: Avionics Retrofit
+Platform: Radar System
+Production Cell: Systems Integration
+Component: Navigation Board
+Primary Disruption: Machine Downtime
+Recovery Priority: Critical
+Operational Risk: 93.6
+Readiness Impact: 74.9
+Estimated Delay: 84 hours
+Estimated Recovery Time: 52 hours
+Recovery Confidence: 0.85
+Recommended Recovery Action: Reroute work order to alternate production path and prioritize maintenance recovery.
+
+Work Order ID: WO-10110
+Program: Ground Sensor Platform
+Platform: UAV
+Production Cell: Avionics Assembly
+Component: Actuator Assembly
+Primary Disruption: Supply Chain Constraint
+Recovery Priority: Critical
+Operational Risk: 92.3
+Readiness Impact: 92.3
+Estimated Delay: 70 hours
+Estimated Recovery Time: 52 hours
+Recovery Confidence: 0.57
+Recommended Recovery Action: Escalate single-source supplier risk and evaluate contingency sourcing options.
+
+Work Order ID: WO-10131
+Program: Avionics Retrofit
+Platform: Radar System
+Production Cell: Inspection
+Component: Radar Housing
+Primary Disruption: Supply Chain Constraint
+Recovery Priority: High
+Operational Risk: 65.5
+Readiness Impact: 65.5
+Estimated Delay: 46 hours
+Estimated Recovery Time: 30 hours
+Recovery Confidence: 0.75
+Recommended Recovery Action: Escalate single-source supplier risk and evaluate contingency sourcing options.
+
+Work Order ID: WO-10245
+Program: Avionics Retrofit
+Platform: Sensor Package
+Production Cell: Machining
+Component: Navigation Board
+Primary Disruption: Machine Downtime
+Recovery Priority: High
+Operational Risk: 78.7
+Readiness Impact: 63.0
+Estimated Delay: 79 hours
+Estimated Recovery Time: 54 hours
+Recovery Confidence: 0.71
+Recommended Recovery Action: Reroute work order to alternate production path and prioritize maintenance recovery.
+
+Work Order ID: WO-10231
+Program: Tactical UAV Production
+Platform: Sensor Package
+Production Cell: Final Assembly
+Component: Power Unit
+Primary Disruption: Nominal
+Recovery Priority: High
+Operational Risk: 51.9
+Readiness Impact: 51.9
+Estimated Delay: 40 hours
+Estimated Recovery Time: 25 hours
+Recovery Confidence: 0.85
+Recommended Recovery Action: Continue monitoring; no immediate recovery action required.
+
+Work Order ID: WO-10100
+Program: Mission Systems Upgrade
+Platform: Ground Vehicle
+Production Cell: Surface Treatment
+Component: Guidance Module
+Primary Disruption: Supply Chain Constraint
+Recovery Priority: High
+Operational Risk: 55.4
+Readiness Impact: 55.4
+Estimated Delay: 54 hours
+Estimated Recovery Time: 36 hours
+Recovery Confidence: 0.75
+Recommended Recovery Action: Escalate single-source supplier risk and evaluate contingency sourcing options.
+
+Work Order ID: WO-10154
+Program: Ground Sensor Platform
+Platform: Ground Vehicle
+Production Cell: Systems Integration
+Component: Flight Control Bracket
+Primary Disruption: Supply Chain Constraint
+Recovery Priority: High
+Operational Risk: 57.1
+Readiness Impact: 57.1
+Estimated Delay: 48 hours
+Estimated Recovery Time: 32 hours
+Recovery Confidence: 0.75
+Recommended Recovery Action: Escalate single-source supplier risk and evaluate contingency sourcing options.
+
+Work Order ID: WO-10205
+Program: Ground Sensor Platform
+Platform: UAV
+Production Cell: Avionics Assembly
+Component: Radar Housing
+Primary Disruption: Machine Downtime
+Recovery Priority: High
+Operational Risk: 66.2
+Readiness Impact: 66.2
+Estimated Delay: 72 hours
+Estimated Recovery Time: 55 hours
+Recovery Confidence: 0.53
+Recommended Recovery Action: Reroute work order to alternate production path and prioritize maintenance recovery.
+
+Work Order ID: WO-10010
+Program: Avionics Retrofit
+Platform: Ground Vehicle
+Production Cell: Inspection
+Component: Actuator Assembly
+Primary Disruption: Quality / Inspection
+Recovery Priority: High
+Operational Risk: 74.1
+Readiness Impact: 74.1
+Estimated Delay: 70 hours
+Estimated Recovery Time: 56 hours
+Recovery Confidence: 0.43
+Recommended Recovery Action: Prioritize inspection queue and allocate rework capacity to reduce backlog.
+
+STRATEGIC OBSERVATIONS
+------------------------------------------------------------------------------
+• Production bottlenecks are concentrated in high-readiness-impact manufacturing cells.
+• Supply chain volatility and inspection backlog remain primary operational risk drivers.
+• Recovery confidence improves significantly when alternate routing and supplier options exist.
+• Mission-priority work orders require aggressive disruption mitigation to reduce delivery risk.
+
+DISCLAIMER
+------------------------------------------------------------------------------
+This project uses fully synthetic data and is intended solely as a portfolio demonstration
+of manufacturing operations analytics, disruption simulation, and AI-assisted operational
+decision-support concepts. It does not contain real defense, supplier, manufacturing,
+or proprietary production information.
