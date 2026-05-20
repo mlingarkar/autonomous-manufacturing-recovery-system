@@ -12,8 +12,6 @@ RNG_SEED = 42
 
 def generate_manufacturing_data(rows: int = 300, seed: int = RNG_SEED) -> pd.DataFrame:
     """Generate realistic synthetic manufacturing operations data.
-
-    The dataset is fully synthetic and intended for portfolio demonstration only.
     """
     rng = np.random.default_rng(seed)
 
